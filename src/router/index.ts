@@ -1,6 +1,5 @@
 import { createRouter, createWebHistory } from 'vue-router'
 
-import Home from "../components/Home.vue"
 import Survey from "../components/Survey.vue"
 import Creator from "../components/Creator.vue"
 import PDFGenerator from "../components/PDFGenerator.vue"
