@@ -1,0 +1,47 @@
+{
+  "id": "1234567890",
+  "checklistId": "1234567890",
+  "question2": "Item 1",
+  "question1": "other",
+  "question1-Comment": "No need",
+  "question3": [
+    "Item 1",
+    "Item 2",
+    "Item 3"
+  ],
+  "question5": [
+    "Item 2",
+    "Item 3",
+    "Item 4",
+    "other"
+  ],
+  "question5-Comment": "It's helpful",
+  "question5-Image": [
+    {
+      "name": "Screenshot 2026-01-27 at 09.55.31.png",
+      "type": "image/png",
+      "content": "sample content"
+    }
+  ],
+  "question7": "Item 2",
+  "question6": "other",
+  "question6-Comment": "Not required",
+  "question8": [
+    "Item 1",
+    "Item 2",
+    "Item 3"
+  ],
+  "question9": [
+    "Item 2",
+    "Item 1",
+    "Item 3"
+  ],
+  "question9-Comment": "It's helpful",
+  "question9-Image": [
+    {
+      "name": "Screenshot 2026-01-27 at 09.55.31.png",
+      "type": "image/png",
+      "content": "sample content"
+    }
+  ]
+}

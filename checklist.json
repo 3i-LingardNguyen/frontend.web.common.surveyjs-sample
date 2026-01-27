@@ -1,0 +1,210 @@
+{
+    "id": "1234567890",
+    "title": "Daily Site Safety Inspection",
+    "description": "Here is the survey description",
+    "pages": [
+      {
+        "name": "page1",
+        "elements": [
+          {
+            "type": "radiogroup",
+            "name": "question2",
+            "title": "Are all workers wearing required PPE?",
+            "description": "This is the description of the question",
+            "isRequired": true,
+            "choices": [
+              {
+                "value": "Item 1",
+                "text": "Yes"
+              },
+              {
+                "value": "Item 2",
+                "text": "No"
+              }
+            ]
+          },
+          {
+            "type": "radiogroup",
+            "name": "question1",
+            "title": "Are all workers wearing required PPE?",
+            "description": "This is the description of the question",
+            "isRequired": true,
+            "choices": [
+              {
+                "value": "Item 1",
+                "text": "Yes"
+              },
+              {
+                "value": "Item 2",
+                "text": "No"
+              }
+            ],
+            "showOtherItem": true
+          },
+          {
+            "type": "checkbox",
+            "name": "question3",
+            "title": "Are there any identified hazards? (Select all that apply)",
+            "description": "This is the description of the question",
+            "isRequired": true,
+            "choices": [
+              {
+                "value": "Item 1",
+                "text": "Exposed Wiring"
+              },
+              {
+                "value": "Item 2",
+                "text": "Wet/Slippery Floor"
+              },
+              {
+                "value": "Item 3",
+                "text": "Risk of Falling Objects"
+              },
+              {
+                "value": "Item 4",
+                "text": "Blocked Pathways"
+              },
+              {
+                "value": "Item 5",
+                "text": "No Hazards (None)"
+              }
+            ]
+          },
+          {
+            "type": "checkbox",
+            "name": "question5",
+            "title": "Are there any identified hazards? (Select all that apply)",
+            "description": "This is the description of the question",
+            "isRequired": true,
+            "choices": [
+              {
+                "value": "Item 1",
+                "text": "Exposed Wiring"
+              },
+              {
+                "value": "Item 2",
+                "text": "Wet/Slippery Floor"
+              },
+              {
+                "value": "Item 3",
+                "text": "Risk of Falling Objects"
+              },
+              {
+                "value": "Item 4",
+                "text": "Blocked Pathways"
+              },
+              {
+                "value": "Item 5",
+                "text": "No Hazards (None)"
+              }
+            ],
+            "showOtherItem": true,
+            "showImageUpload": true
+          },
+          {
+            "type": "panel",
+            "name": "panel1",
+            "title": "Panel title",
+            "description": "Panel description",
+            "elements": [
+              {
+                "type": "radiogroup",
+                "name": "question7",
+                "title": "Are all workers wearing required PPE?",
+                "description": "This is the description of the question",
+                "isRequired": true,
+                "choices": [
+                  {
+                    "value": "Item 1",
+                    "text": "Yes"
+                  },
+                  {
+                    "value": "Item 2",
+                    "text": "No"
+                  }
+                ]
+              },
+              {
+                "type": "radiogroup",
+                "name": "question6",
+                "title": "Are all workers wearing required PPE?",
+                "description": "This is the description of the question",
+                "isRequired": true,
+                "choices": [
+                  {
+                    "value": "Item 1",
+                    "text": "Yes"
+                  },
+                  {
+                    "value": "Item 2",
+                    "text": "No"
+                  }
+                ],
+                "showOtherItem": true
+              },
+              {
+                "type": "checkbox",
+                "name": "question8",
+                "title": "Are there any identified hazards? (Select all that apply)",
+                "description": "This is the description of the question",
+                "isRequired": true,
+                "choices": [
+                  {
+                    "value": "Item 1",
+                    "text": "Exposed Wiring"
+                  },
+                  {
+                    "value": "Item 2",
+                    "text": "Wet/Slippery Floor"
+                  },
+                  {
+                    "value": "Item 3",
+                    "text": "Risk of Falling Objects"
+                  },
+                  {
+                    "value": "Item 4",
+                    "text": "Blocked Pathways"
+                  },
+                  {
+                    "value": "Item 5",
+                    "text": "No Hazards (None)"
+                  }
+                ]
+              },
+              {
+                "type": "checkbox",
+                "name": "question9",
+                "title": "Are there any identified hazards? (Select all that apply)",
+                "description": "This is the description of the question",
+                "isRequired": true,
+                "choices": [
+                  {
+                    "value": "Item 1",
+                    "text": "Exposed Wiring"
+                  },
+                  {
+                    "value": "Item 2",
+                    "text": "Wet/Slippery Floor"
+                  },
+                  {
+                    "value": "Item 3",
+                    "text": "Risk of Falling Objects"
+                  },
+                  {
+                    "value": "Item 4",
+                    "text": "Blocked Pathways"
+                  },
+                  {
+                    "value": "Item 5",
+                    "text": "No Hazards (None)"
+                  }
+                ],
+                "showOtherItem": true,
+                "showImageUpload": true
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
